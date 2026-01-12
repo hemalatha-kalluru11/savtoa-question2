@@ -27,15 +27,15 @@ The goal is to show:
 
 # Risk Levels
 
-Less than 10	       -> Danger
-Between 10 and 30    -> Warning
-More than 30         -> Safe
+1. Less than 10	       -> Danger
+2. Between 10 and 30    -> Warning
+3. More than 30         -> Safe
 
 # Technologies Used
-Python
-HTML
-CSS
-JavaScript
+- Python
+- HTML
+- CSS
+- JavaScript
 
 # How to run this project
 
