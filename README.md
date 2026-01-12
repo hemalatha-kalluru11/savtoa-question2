@@ -14,9 +14,9 @@ The goal is to show:
 
 # How the system works
 
-1.A Python program generates random ship and target positions.
-2.It calculates the CPA (Closest Point of Approach) for each target.
-3.Based on the CPA value, the system decides:
+1. A Python program generates random ship and target positions.
+2. It calculates the CPA (Closest Point of Approach) for each target.
+3. Based on the CPA value, the system decides:
     - Safe
     - Warning
     - Danger
