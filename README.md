@@ -20,16 +20,16 @@ The goal is to show:
     - Safe
     - Warning
     - Danger
-4.This data is saved in a JSON file.
-5.The web page reads this JSON file and displays:
+4. This data is saved in a JSON file.
+5. The web page reads this JSON file and displays:
     - Targets as dots on a map
     - Risk status in the alert panel
 
 # Risk Levels
-CPA Value         	Risk Level
-Less than 10	        - Danger
-Between 10 and 30     - Warning
-More than 30          - Safe
+
+Less than 10	       -> Danger
+Between 10 and 30    -> Warning
+More than 30         -> Safe
 
 # Technologies Used
 Python
